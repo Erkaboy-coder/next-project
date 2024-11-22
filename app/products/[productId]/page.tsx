@@ -14,12 +14,11 @@ export const generateMetadata = async ({ params }: Props): Promise<Metadata> => 
 };
 
 export default async function ProductDetails({ params }: Props) {
-    // Access params directly without async handling here
     const productId = params.productId;
 
     return (
         <>
-            <div style={{ height: '400px' }}>
+            <div style={{ height: '450px' }}>
                 <h1 className="text-center p-5 text-blue-500">This is the Product Detail page</h1>
                 <h1 className="p-3">Details about product {productId}</h1>
             </div>

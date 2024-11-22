@@ -5,7 +5,7 @@ export default function ProductsPage() {
     return (
         <div className="justify-center">
 
-            <h1 className="text-2xl md:text-3xl pl-2 my-2 border-l-4  font-sans font-bold border-teal-400  dark:text-gray-200">
+            <h1 className="text-2xl md:text-3xl pl-2 my-2 border-l-4  font-sans font-bold border-teal-400  dark:text-gray-700">
                 Products list
             </h1>
             <br/>

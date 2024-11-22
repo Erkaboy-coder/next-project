@@ -26,6 +26,7 @@ const navLinks = [
     {name: 'Blogs', href: "/blog"},
     {name: 'Products', href: "/products"},
     {name: 'Calendar', href: "/calendar"},
+    {name: 'Media', href: "/photo-feed"},
     {name: 'Contacts', href: "/contacts"},
 
 ]
